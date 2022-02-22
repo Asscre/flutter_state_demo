@@ -1,8 +1,8 @@
-# flutter_state_demo
+# 🔥🔥 flutter_state_demo 🔥🔥
 
 * 用于探索Flutter MVC架构的技术预演和思考；
-  
-[flutter_ssf ](https://github.com/Asscre/flutter_ssf)
+
+🔥🔥 [flutter_ssf ](https://github.com/Asscre/flutter_ssf) 🔥🔥
 
 **flutter_ssf**是一个推崇使用Provider、Custom Router、dio结合的MVC开发模式设计的Flutter应用生产级开发脚手架。
 
